@@ -114,7 +114,7 @@ header {
       right: 30px;
       top: 50%;
       transform: translateY(-50%);
-      transition: transform .15s ease-in-out;
+      transition: transform 0.15s ease-in-out;
     }
   }
 }
@@ -129,7 +129,7 @@ header {
   font-weight: 500;
   font-size: 16px;
   cursor: pointer;
-  transition: background-color .2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
 
   &:hover {
     background-color: lighten(#9dd558, 5%);
@@ -173,4 +173,11 @@ header {
       opacity: 1;
     }
   }
+}
+
+.products-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 10px;
+  row-gap: 20px;
 }
