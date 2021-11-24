@@ -5,27 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d99f5df-1f6b-4244-bc04-f43fc1420ee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/btn-checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sneakers/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cart-empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/complete-order.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/heart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/heart-liked.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/liked.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/heart-unliked.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/unliked.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card/Card.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card/Card.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Drawer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Drawer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="DockDockBuild.Settings">
     <option name="codePath" value="$PROJECT_DIR$" />
@@ -43,16 +45,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,6 +80,16 @@
       <workItem from="1635494646092" duration="675000" />
       <workItem from="1635495935153" duration="20000" />
       <workItem from="1635500320872" duration="39000" />
+      <workItem from="1637567731363" duration="1164000" />
+      <workItem from="1637651060933" duration="327000" />
+      <workItem from="1637651501009" duration="1146000" />
+      <workItem from="1637654344843" duration="1186000" />
+      <workItem from="1637659114104" duration="7000" />
+      <workItem from="1637671829086" duration="172000" />
+      <workItem from="1637672028197" duration="292000" />
+      <workItem from="1637672340069" duration="104000" />
+      <workItem from="1637672634227" duration="33000" />
+      <workItem from="1637673232830" duration="5087000" />
     </task>
     <servers />
   </component>
