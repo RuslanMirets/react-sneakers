@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d99f5df-1f6b-4244-bc04-f43fc1420ee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/cart-empty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/complete-order.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/heart.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/heart-liked.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/liked.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/heart-unliked.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/unliked.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Drawer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Drawer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +79,7 @@
       <workItem from="1637672340069" duration="104000" />
       <workItem from="1637672634227" duration="33000" />
       <workItem from="1637673232830" duration="5087000" />
+      <workItem from="1637737940002" duration="162000" />
     </task>
     <servers />
   </component>

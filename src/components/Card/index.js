@@ -1,19 +1,19 @@
-import React from "react";
+import React from 'react';
 import styles from './Card.module.scss';
 
-const Card = ({imageUrl, title, price, onFavorite, onPlus}) => {
+const Card = ({ id, imageUrl, title, price, onFavorite, onPlus, favorited = false }) => {
   const [isAdded, setIsAdded] = React.useState(false);
-  const [isFavorite, setIsFavorite] = React.useState(false);
+  const [isFavorite, setIsFavorite] = React.useState(favorited);
 
   const onClickPlus = () => {
-    onPlus({title, imageUrl, price});
+    onPlus({ title, imageUrl, price });
     setIsAdded(!isAdded);
-  }
+  };
 
   const onClickFavorite = () => {
-    onFavorite({title, imageUrl, price});
+    onFavorite({ id, title, imageUrl, price });
     setIsFavorite(!isFavorite);
-  }
+  };
 
   return (
     <div className={styles.card}>
@@ -27,11 +27,15 @@ const Card = ({imageUrl, title, price, onFavorite, onPlus}) => {
           <span>Цена:</span>
           <b>{price} руб.</b>
         </div>
-        <img className={styles.plus} onClick={onClickPlus} src={isAdded ? '/img/btn-checked.png' : '/img/btn-plus.svg'}
-             alt="Plus" />
+        <img
+          className={styles.plus}
+          onClick={onClickPlus}
+          src={isAdded ? '/img/btn-checked.png' : '/img/btn-plus.svg'}
+          alt="Plus"
+        />
       </div>
     </div>
   );
-}
+};
 
 export default Card;
